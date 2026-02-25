@@ -17,7 +17,7 @@ export const PRODUCTS: Product[] = [
     id: 1,
     name: "Oversized Graphic Tee",
     price: 45.00,
-    image: "https://duplografic.pe/producto/polos-corporativos/",
+    image: "https://files.catbox.moe/1n15kq.jpg",
     category: "Polos",
     sizes: ["S", "M", "L", "XL"]
   },
