@@ -19,37 +19,37 @@ export const PRODUCTS: Product[] = [
     price: 45.00,
     image: "https://files.catbox.moe/stdgkh.jpeg",
     category: "Polos",
-    sizes: ["S", "M", "L", "XL"]
+    sizes: ["XL"]
   },
   {
     id: 2,
     name: "Slim Fit Black Jeans",
     price: 89.00,
-    image: "https://picsum.photos/seed/jeans1/600/800",
+    image: "https://files.catbox.moe/rr1fpn.jpeg",
     category: "Jeans",
-    sizes: ["30", "32", "34", "36"]
+    sizes: ["36"]
   },
   {
     id: 3,
     name: "Denim Trucker Jacket",
     price: 120.00,
-    image: "https://picsum.photos/seed/jacket1/600/800",
+    image: "https://files.catbox.moe/ave8jm.png",
     category: "Casacas",
-    sizes: ["M", "L", "XL"]
+    sizes: ["M"]
   },
   {
     id: 4,
     name: "Basic White Hoodie",
     price: 75.00,
-    image: "https://picsum.photos/seed/hoodie1/600/800",
+    image: "https://files.catbox.moe/ez6le0.jpg",
     category: "Casacas",
-    sizes: ["S", "M", "L"]
+    sizes: ["M", "L"]
   },
   {
     id: 5,
     name: "Cargo Pants Olive",
     price: 95.00,
-    image: "https://picsum.photos/seed/pants1/600/800",
+    image: "https://files.catbox.moe/yfaeyg.jpeg",
     category: "Jeans",
     sizes: ["30", "32", "34"]
   },
@@ -57,7 +57,7 @@ export const PRODUCTS: Product[] = [
     id: 6,
     name: "Vintage Cap Black",
     price: 25.00,
-    image: "https://picsum.photos/seed/cap1/600/800",
+    image: "https://files.catbox.moe/am2i6w.jpeg",
     category: "Accesorios",
     sizes: ["Única"]
   }
