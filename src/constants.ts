@@ -2,8 +2,8 @@ import { Product, StoreInfo } from './types';
 
 export const STORE_INFO: StoreInfo = {
   name: "URBAN STYLE",
-  whatsapp: "51900000000", // Example number
-  address: "Av. Larco 123, Miraflores, Lima",
+  whatsapp: "51928567606", // Example number
+  address: "jr. Apurimac, Quillabamba, Cusco",
   hours: "Lun - Sáb: 10:00 AM - 9:00 PM | Dom: 11:00 AM - 7:00 PM",
   socials: {
     instagram: "https://instagram.com",
@@ -17,7 +17,7 @@ export const PRODUCTS: Product[] = [
     id: 1,
     name: "Oversized Graphic Tee",
     price: 45.00,
-    image: "https://picsum.photos/seed/tee1/600/800",
+    image: "https://duplografic.pe/producto/polos-corporativos/",
     category: "Polos",
     sizes: ["S", "M", "L", "XL"]
   },
