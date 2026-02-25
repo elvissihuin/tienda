@@ -70,7 +70,7 @@ export default function Location() {
             </div>
             {/* In a real app, you'd use an iframe or a map library here */}
             <img 
-              src="https://picsum.photos/seed/map-placeholder/1000/1000?grayscale&blur=2" 
+              src="https://files.catbox.moe/fhvktz.jpg?grayscale&blur=2" 
               alt="Mapa" 
               className="w-full h-full object-cover opacity-30"
               referrerPolicy="no-referrer"
