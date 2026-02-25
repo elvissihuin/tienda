@@ -15,7 +15,7 @@ export default function About() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://picsum.photos/seed/store-about/800/800?grayscale"
+                src="https://files.catbox.moe/kxkp1g.jpeg"
                 alt="Sobre Nosotros"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
