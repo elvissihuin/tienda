@@ -17,7 +17,7 @@ export const PRODUCTS: Product[] = [
     id: 1,
     name: "Oversized Graphic Tee",
     price: 45.00,
-    image: "https://files.catbox.moe/1n15kq.jpg",
+    image: "https://files.catbox.moe/stdgkh.jpeg",
     category: "Polos",
     sizes: ["S", "M", "L", "XL"]
   },
