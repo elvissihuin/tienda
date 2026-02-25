@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://picsum.photos/seed/fashion-hero/1920/1080?grayscale"
+          src="https://files.catbox.moe/vv3vxd.jpg"
           alt="Banner Principal"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
@@ -31,7 +31,7 @@ export default function Hero() {
             <span className="text-accent">DISPONIBLE</span>
           </h1>
           <p className="text-white/70 text-lg md:text-xl mb-10 max-w-lg">
-            Descubre las últimas tendencias en moda urbana. Diseños exclusivos pensados para tu estilo diario.
+            Descubre las últimas tendencias en moda Quillabamba. Diseños exclusivos pensados para tu estilo diario.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
