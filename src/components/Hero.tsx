@@ -8,7 +8,7 @@ export default function Hero() {
       {/* FONDO EN LA IMAGEN */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://files.catbox.moe/bsnk60.jpg"
+          src="https://picsum.photos/id/11/2500/1667"
           alt="Banner Principal"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
