@@ -5,10 +5,10 @@ import { ArrowRight } from 'lucide-react';
 export default function Hero() {
   return (
     <section id="inicio" className="relative h-screen w-full overflow-hidden flex items-center">
-      {/* Background Image */}
+      {/* FONDO EN LA IMAGEN */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://files.catbox.moe/vv3vxd.jpg"
+          src="https://files.catbox.moe/bsnk60.jpg"
           alt="Banner Principal"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
